@@ -1,3 +1,16 @@
-P{
-    color: red;
+
+
+#h1{
+    font-size: 100px;
+    display: block;
+    /*justify-content: center;*/
+    text-align: center;
+    color: rgba(67, 86, 179, 0.6);
+}
+div{
+    text-align: center;
+
+}
+.one{
+    background-color: rgba(255,0,0,0.3);
 }
